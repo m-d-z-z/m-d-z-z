@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-d-z-z
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning How To Being a GAY
-- 💞️ I’m looking to collaborate on Nothing
+- 👋 Hi, I’m @undefiner
+- 👀 I’m interested in undefined
+- 🌱 I’m currently undefined
+- 💞️ I’m looking to collaborate on undefined
 
 <!---
 m-d-z-z/m-d-z-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
